@@ -1,0 +1,6 @@
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\Model\bin\Debug\Model.dll
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\Model\bin\Debug\Model.pdb
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\Model\obj\Debug\Model.dll
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\Model\obj\Debug\Model.pdb

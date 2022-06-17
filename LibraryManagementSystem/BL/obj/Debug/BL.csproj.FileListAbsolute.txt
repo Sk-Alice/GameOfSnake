@@ -1,0 +1,11 @@
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\bin\Debug\BL.dll
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\bin\Debug\BL.pdb
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\bin\Debug\DA.dll
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\bin\Debug\Model.dll
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\bin\Debug\DA.pdb
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\bin\Debug\Model.pdb
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\obj\Debug\BL.csproj.CopyComplete
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\obj\Debug\BL.dll
+E:\MyCsharpSpace\Projects\WorkSpace\LibraryManagementSystem\BL\obj\Debug\BL.pdb

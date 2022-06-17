@@ -1,0 +1,30 @@
+﻿<Window x:Class="LibraryManagementSystem.Admin_UpdateStu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryManagementSystem"
+        mc:Ignorable="d"
+        Title="更新学生信息" Height="450" Width="800">
+    <Grid>
+        <GroupBox Header="学生信息" HorizontalAlignment="Left" Height="308" Margin="149,43,0,0" VerticalAlignment="Top" Width="491"/>
+        <Label Content="姓名" HorizontalAlignment="Left" Margin="166,108,0,0" VerticalAlignment="Top"/>
+        <Label Content="学号" HorizontalAlignment="Left" Margin="166,158,0,0" VerticalAlignment="Top"/>
+        <Label Content="年级" HorizontalAlignment="Left" Margin="165,212,0,0" VerticalAlignment="Top"/>
+        <Label Content="专业" HorizontalAlignment="Left" Margin="165,265,0,0" VerticalAlignment="Top"/>
+        <Label Content="可借阅数量" HorizontalAlignment="Left" Margin="386,107,0,0" VerticalAlignment="Top"/>
+        <Label Content="原密码" HorizontalAlignment="Left" Margin="398,160,0,0" VerticalAlignment="Top"/>
+        <Label Content="新密码" HorizontalAlignment="Left" Margin="399,214,0,0" VerticalAlignment="Top"/>
+        <Label Content="确认密码" HorizontalAlignment="Left" Margin="394,264,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_StuBNum" HorizontalAlignment="Left" Height="23" Margin="490,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_StuName" HorizontalAlignment="Left" Height="23" Margin="231,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_StuId" HorizontalAlignment="Left" Height="22" Margin="231,158,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="txt_StuGrade" HorizontalAlignment="Left" Height="23" Margin="231,212,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_StuPro" HorizontalAlignment="Left" Height="23" Margin="231,265,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_Pwd" HorizontalAlignment="Left" Height="23" Margin="490,160,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox x:Name="pwd_First" HorizontalAlignment="Left" Margin="490,214,0,0" VerticalAlignment="Top" Width="120" Height="23"/>
+        <PasswordBox x:Name="pwd_Second" HorizontalAlignment="Left" Margin="490,265,0,0" VerticalAlignment="Top" Width="120" Height="23"/>
+        <Button x:Name="btn_Update" Content="修改" HorizontalAlignment="Left" Margin="276,365,0,0" VerticalAlignment="Top" Width="75" Click="btn_Update_Click"/>
+        <Button x:Name="btn_Back" Content="返回" HorizontalAlignment="Left" Margin="404,365,0,0" VerticalAlignment="Top" Width="75" Click="btn_Back_Click"/>
+    </Grid>
+</Window>
